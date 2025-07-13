@@ -2,7 +2,7 @@
 <h3 align="center">💻 3rd Year BCA Student | Aspiring Software Developer | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F58A&center=true&vCenter=true&width=435&lines=Always+learning+something+new!;Tech+lover+%7C+Problem+Solver;Python+%7C+Java+%7C+Web+Development;Machine+Learning+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=Blue&center=true&vCenter=true&width=435&lines=Always+learning+something+new!;Tech+lover+%7C+Problem+Solver;Python+%7C+Java+%7C+Web+Development;Machine+Learning+Explorer" alt="Typing SVG" />
 </p>
 
 ---
